@@ -6,3 +6,11 @@
     parts correspond to StandardHeaderFile and StatementSequence?
     
 */
+
+//Displays Hello world on the screen - (corresponds to DescriptiveComment)
+#include <iostream> // (correspond to StandardHeaderFile)
+using namespace std;
+int main( )
+{
+cout << "Hello world" << endl; // (correspond to StatementSequence)
+}
